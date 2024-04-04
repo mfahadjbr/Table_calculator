@@ -4,7 +4,9 @@
   "description": "",
   "main": "main.js",
   "type": "module",
-  "bin": "main.js",
+  "bin": {
+    "table-number-show": "main.js"
+  },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
